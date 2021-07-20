@@ -1,0 +1,1 @@
+{"type":"object","title":"Moves","description":"Tai chi movesoves","properties":{"moves":{"items":{"type":"object","title":"Name","properties":{"Level":{"enum":["Basic","Intermediate","Advanced"],"title":"Level","type":"string"}},"dependencies":{},"required":[]},"title":"Moves","type":"array"}},"dependencies":{},"required":[]}

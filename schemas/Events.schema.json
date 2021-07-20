@@ -1,0 +1,1 @@
+{"type":"object","title":"Events","description":"Tai chi events ","properties":{"Events":{"items":{"title":"Location","type":"object","properties":{"Date":{"format":"date","title":"Date of Event","type":"string"}},"dependencies":{},"required":[]},"title":"Events","type":"array","description":"Tai chi events"}},"dependencies":{},"required":[]}
