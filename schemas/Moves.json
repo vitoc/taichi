@@ -1,0 +1,1 @@
+{"type":"object","title":"Moves","description":"Tai chi movements that you can practice","properties":{"yangMoves":{"items":{"title":"Name","type":"string"},"title":"Yang style moves","type":"array","description":"Yang is the most popular and widely practised style in the world today"}},"dependencies":{},"required":[]}

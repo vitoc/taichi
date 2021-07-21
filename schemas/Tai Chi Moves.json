@@ -1,1 +1,0 @@
-{"type":"object","title":"Tai Chi Moves","description":"Dataset containing list of tai chi moves that you can practice","properties":{"Moves":{"items":{"type":"string","title":"Name"},"title":"Yang style moves","type":"array"}},"dependencies":{},"required":[]}
