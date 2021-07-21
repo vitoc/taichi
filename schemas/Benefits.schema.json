@@ -1,1 +1,0 @@
-{"type":"object","title":"Benefits","description":"Health benefits of Tai Chi","properties":{"Benefit":{"title":"Benefit","type":"string"},"Type":{"enum":["Mental","Physical","Emotional","Social","Spiritual"],"title":"Type","type":"string"},"Duration":{"title":"Months to practice","type":"number"}},"dependencies":{},"required":[]}
