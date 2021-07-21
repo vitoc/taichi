@@ -1,0 +1,1 @@
+{"type":"object","title":"Movements","description":"The many moves of tai chi","properties":{"YangStyle":{"items":{"type":"string","title":"Name"},"title":"Yang Style","type":"array"}},"dependencies":{},"required":[]}
